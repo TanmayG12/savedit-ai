@@ -1,0 +1,13 @@
+{
+  "name": "savedit",
+  "description": "Find, read and organize the links, videos and posts you saved in SavedIt.",
+  "version": "1.1.0",
+  "author": {
+    "name": "SavedIt",
+    "email": "contact@saveditapp.com"
+  },
+  "homepage": "https://saveditapp.com/connect-ai",
+  "repository": "https://github.com/TanmayG12/savedit-ai",
+  "logo": "assets/icon-512.png",
+  "license": "MIT"
+}
